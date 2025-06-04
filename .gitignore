@@ -193,4 +193,4 @@ cython_debug/
 .cursorignore
 .cursorindexingignore
 
-pydantic_ai.py
+scripts/pydantic_ai.py
